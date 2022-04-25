@@ -13,5 +13,5 @@ setup(name='bbquote850',
       test_suite='tests',
       # include_package_data: to install data from MANIFEST.in
       include_package_data=True,
-      scripts=['scripts/bbquote850-run'],
+      scripts=['scripts/randomize_quote'],
       zip_safe=False)
